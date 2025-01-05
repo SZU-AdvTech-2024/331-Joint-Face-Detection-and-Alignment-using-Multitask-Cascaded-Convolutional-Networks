@@ -1,0 +1,10 @@
+@article{REPO331,
+    author = "Zhang, Kaipeng and Zhang, Zhanpeng and Li, Zhifeng and Qiao, Yu",
+    journal = "IEEE signal processing letters",
+    number = "10",
+    pages = "1499--1503",
+    publisher = "IEEE",
+    title = "{Joint face detection and alignment using multitask cascaded convolutional networks}",
+    volume = "23",
+    year = "2016"
+}
